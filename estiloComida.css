@@ -87,7 +87,7 @@
               }
           
                .hero-image {
-                background-image: url("../jsp/fondo1.jpg");
+                background-image: url("fondo1.jpg");
                 background-color: black;
                 height: 1500px;
                 background-position: center;
